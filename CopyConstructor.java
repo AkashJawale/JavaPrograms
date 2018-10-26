@@ -20,8 +20,7 @@ class Rectangle
        { 
           return (length * breadth); 
        } 
-} 
-       //class to create Rectangle object and calculate area 
+} //class to create Rectangle object and calculate area
        class CopyConstructor 
 { 
           public static void main(String[] args) 
